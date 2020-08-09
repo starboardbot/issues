@@ -1,7 +1,6 @@
 # **Starboard Discord Bot :0**
 
-___
-# This repository is for bugs, issues or suggestions about the bot.
+## This repository is for bugs, issues or suggestions about the bot.
 ### Alternatively, you can use the star bug command.
 ---
 
