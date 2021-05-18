@@ -1,7 +1,7 @@
 # **Starboard Discord Bot :0**
 
 ## This repository is for bugs, issues or suggestions about the bot.
-### Alternatively, you can use the star bug command.
+### Alternatively, you can use the star suggest command.
 ---
 
 starboard [discord bot](https://discordapp.com/oauth2/authorize?client_id=655390915325591629&permissions=8&scope=bot), made by `TheNoob27#6815` :sunglasses:
